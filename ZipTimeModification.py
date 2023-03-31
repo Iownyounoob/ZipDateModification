@@ -9,6 +9,7 @@ import zipfile
 import threading
 import os
 
+# Set to zip location ex: 'home/iownyounoob/Documents/'
 zip_path = ''
 output_dir = ''
 output_zip_path = os.path.join(output_dir, '')
